@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @taistr
-- 👀 I’m interested in Formula racing and Machine learning
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on literally anything
-- 📫 How to reach me ...
+- 👀 I’m interested in electronics, robotics and software.
+- 🌱 I’m currently studying engineering.
+- 📫 You can reach me on my Instagram or LinkedIn!
 
 <!---
 taistr/taistr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
